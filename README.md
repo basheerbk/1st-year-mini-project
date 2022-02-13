@@ -1,19 +1,16 @@
 # 1st-year-mini-project
 > A simple arduino Based Fire alram system with DC motor pump
 
-> Arduino Uno is an open-source microcontroller board developed by Arduino.cc. It has several advantages over the conventional microcontrollers. It comes with a pre-tested software and hardware libraries and has its own integrated development environment (IDE). Also it is less expensive & beginner friendly.
+> Arduino Uno is an open-source microcontroller board developed by Arduino.cc. It has several advantages over the conventional microcontrollers. It comes with a pre-tested software and hardware libraries and has its own integrated development environment (IDE). 
 
 ## Components Required  
 * Arduino Uno Board 
 * USB Cable 
 * LM 34 (Temperature sensor)
-* 220 OHM Resistor X 1 Nos
-* 5v Relay
+* 5v Relay module
 * DC motor pump 
 * Buzzzer
 * LED
-* Breadboard 
-* Jumper Wires (Male to Male ) X 2 Nos
 
 ## Circuit Diagram
 
